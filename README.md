@@ -36,9 +36,9 @@
 
 📧 Email: [prajnadailyjobs@gmail.com](mailto:prajnadailyjobs@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/pragsn
+💼 LinkedIn: [linkedin.com/in/pragsn](https://www.linkedin.com/in/pragsn)
 
-🐙 GitHub: github.com/pragsn
+🐙 GitHub: [github.com/pragsn](https://github.com/pragsn)
 
 ---
 
