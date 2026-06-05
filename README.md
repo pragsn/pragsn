@@ -1,32 +1,66 @@
-# Hi, I'm Prajna Sri Parimi 👋
+# 👋 Hey there, I'm Prajna Sri Parimi
 
-Full Stack Developer passionate about building scalable web applications and exploring Machine Learning.
+### Full Stack Developer | MERN Stack | Machine Learning Enthusiast | Problem Solver
 
-## 💻 Skills
+🚀 Passionate about building scalable web applications, designing robust backend systems, and applying Machine Learning to solve real-world problems.
 
-- JavaScript
-- TypeScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- PostgreSQL
-- Java
-- TensorFlow
-- OpenCV
-- GitHub
-- Visual Studio Code
-- Eclipse
-- PGAdmin
+💡 I enjoy turning ideas into products, whether it's a MERN application serving hundreds of requests or an AI model capable of detecting medical abnormalities.
 
-## 🏆 Highlights
+---
 
-- Solved 300+ DSA problems
-- Project Exhibitor at IIT Madras
-- Built ML models with 85–90% accuracy
+## 🔥 About Me
 
-## 📫 Connect With Me
+* 🎓 Electronics & Communication Engineering Graduate
+* 💻 Full Stack Developer specializing in MERN Stack
+* 🤖 Machine Learning enthusiast with TensorFlow & OpenCV experience
+* 🧩 Solved 300+ Data Structures & Algorithms problems
+* 🏆 Project Exhibitor at IIT Madras
+* 🌱 Currently exploring System Design, Spring Boot, and Cloud Technologies
 
-- LinkedIn: https://linkedin.com/in/pragsn
-- GitHub: https://github.com/pragsn
-- Email: prajnadailyjobs@gmail.com
+---
+
+## 🛠 Tech Arsenal
+
+### Frontend
+
+⚛️ React.js • TypeScript • JavaScript • HTML5 • CSS3 • Bootstrap
+
+### Backend
+
+🟢 Node.js • Express.js • REST APIs • Authentication
+
+### Databases
+
+🍃 MongoDB • PostgreSQL • Firestore
+
+### AI / ML
+
+🧠 TensorFlow • Keras • OpenCV • Machine Learning
+
+### Tools
+
+🔧 Git • GitHub • VS Code • Eclipse • Postman • pgAdmin
+
+---
+
+## 🎯 2026 Goals
+
+* Master Spring Boot
+* Learn AWS & Docker
+* Build production-scale full-stack applications
+* Contribute to Open Source
+* Reach 500+ DSA problems solved
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: [prajnadailyjobs@gmail.com](mailto:prajnadailyjobs@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/pragsn
+
+🐙 GitHub: github.com/pragsn
+
+---
+
+⭐ *"Code. Learn. Build. Repeat."*
