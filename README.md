@@ -28,7 +28,7 @@
 
 ### Tools
 
-🔧 Git • GitHub • VS Code • Eclipse • Postman • pgAdmin
+🔧 Git • GitHub • VS Code • Eclipse • pgAdmin
 
 ---
 
