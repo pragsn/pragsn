@@ -22,7 +22,6 @@ Full Stack Developer passionate about building scalable web applications and exp
 ## 🏆 Highlights
 
 - Solved 300+ DSA problems
-- Top 2% on LeetCode
 - Project Exhibitor at IIT Madras
 - Built ML models with 85–90% accuracy
 
