@@ -8,17 +8,6 @@
 
 ---
 
-## 🔥 About Me
-
-* 🎓 Electronics & Communication Engineering Graduate
-* 💻 Full Stack Developer specializing in MERN Stack
-* 🤖 Machine Learning enthusiast with TensorFlow & OpenCV experience
-* 🧩 Solved 300+ Data Structures & Algorithms problems
-* 🏆 Project Exhibitor at IIT Madras
-* 🌱 Currently exploring System Design, Spring Boot, and Cloud Technologies
-
----
-
 ## 🛠 Tech Arsenal
 
 ### Frontend
@@ -40,16 +29,6 @@
 ### Tools
 
 🔧 Git • GitHub • VS Code • Eclipse • Postman • pgAdmin
-
----
-
-## 🎯 2026 Goals
-
-* Master Spring Boot
-* Learn AWS & Docker
-* Build production-scale full-stack applications
-* Contribute to Open Source
-* Reach 500+ DSA problems solved
 
 ---
 
