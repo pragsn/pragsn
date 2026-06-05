@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Prajna Sri Parimi 👋
 
-<!--
-**pragsn/pragsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer passionate about building scalable web applications and exploring Machine Learning.
 
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- TypeScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- PostgreSQL
+- Java
+- TensorFlow
+- OpenCV
+- GitHub
+- Visual Studio Code
+- Eclipse
+- PGAdmin
+
+## 🏆 Highlights
+
+- Solved 300+ DSA problems
+- Top 2% on LeetCode
+- Project Exhibitor at IIT Madras
+- Built ML models with 85–90% accuracy
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/pragsn
+- GitHub: https://github.com/pragsn
+- Email: prajnadailyjobs@gmail.com
